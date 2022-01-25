@@ -9,8 +9,11 @@ alert(`${userInput2} sounds fun.`);
 let userInput3 = prompt("What is your favorite city?");
 alert(`I'll have to visit ${userInput3} someday.`);
 
-let userInput4 = prompt("What is your favorte food?");
+let userInput4 = prompt("What is your favorite food?");
 alert(`I like ${userInput4} as well.`);
+
+alert(`One day we should play ${userInput1} and ${userInput2}. We need to visit ${userInput3} and eat some ${userInput4}!`);
+
 
 
 
