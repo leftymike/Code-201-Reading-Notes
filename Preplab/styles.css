@@ -1,0 +1,59 @@
+
+body {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    text-align:center;
+}
+
+body {
+    background-color: chartreuse;
+}
+
+p {
+    border-style: double;
+    color: yellow;
+}
+
+p {
+    margin-top: 100px;
+}
+
+h2 {
+    color: grey
+}
+
+h4 { 
+    text-shadow: 2px 2px white;
+}
+
+body {
+    border-style: double;
+    color: white
+}
+
+img {
+    max-width: 60%;
+    height: auto;
+}
+
+img {
+    float: right;
+}
+
+
+.blueBck {
+    background-color: blue;
+}
+
+.redBck {
+    background-color:red;
+}
+
+
+
+
+
+
