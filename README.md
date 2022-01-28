@@ -5,8 +5,8 @@ This page is created to house the assgnments related to the Code 201 course.
 ## Table of Contents
   1.
   2.
-  3.
-  4.
+  3. [Read 03](https://leftymike.github.io/Code-201-Reading-Notes/read-03.md)
+  4.   
   5.
   6.
   7.
